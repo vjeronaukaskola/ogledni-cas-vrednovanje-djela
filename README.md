@@ -4,6 +4,7 @@
 
 Ažurirano 27.10.2026. za VIII razred, 16–19 učenika i 45 minuta.
 
+- [Način za pametnu tablu na dodir](https://vjeronaukaskola.github.io/ogledni-cas-vrednovanje-djela/?tabla=1): velike tipke, izbor dodirom, tabela postupak po postupak i cijeli ekran.
 - Pojmovi s objašnjenjima i primjerima prema udžbeniku, str. 29–32.
 - Prezentacija od 30 slajdova: uvod, sadržaj lekcije i svih 12 pitanja; bez slajdova s uputama o karticama.
 - Interaktivna tabela svih 14 postupaka i sedam kategorija sa str. 31, uz zaseban Word/PDF listić.
