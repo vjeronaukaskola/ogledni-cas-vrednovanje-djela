@@ -1,17 +1,16 @@
 # Vrednovanje djela u Zakonu Božijem
 
-[Otvori čas](https://vjeronaukaskola.github.io/ogledni-cas-vrednovanje-djela/) · [Pametna tabla](https://vjeronaukaskola.github.io/ogledni-cas-vrednovanje-djela/?tabla=1)
+[Otvori ogledni čas](https://vjeronaukaskola.github.io/ogledni-cas-vrednovanje-djela/) · [Način za pametnu tablu](https://vjeronaukaskola.github.io/ogledni-cas-vrednovanje-djela/?tabla=1)
 
-Ažurirano 29.10.2026. prema dostavljenoj osnovnoj pripremi. VIII razred, 16–19 učenika, pet grupa, 45 minuta (5 + 35 + 5).
+Ažurirano 29.10.2026. Priprema prati dostavljeni obrazac i udžbenik, str. 29–32. Cilj je razumijevanje kategorija djela i obrazlaganje primjera.
 
-- Priprema zadržava ishod B.8.5 i tri osnovna pokazatelja, uz razrađene aktivnosti, formativno praćenje i nastavničke ključeve.
-- Individualni listić: razvrstavanje, četiri termina, odgovori na kviz, namaz i abdest, primjer mubaha i cijela tabela na drugoj stranici.
-- Pet grupnih zadataka A–E na pet odvojenih stranica.
-- Kviz za čas: svih 12 pitanja. Dodatna vježba: proširenje na 18 pitanja.
-- Tabela ima svih 14 postupaka; redovi 1, 4, 10, 11 i 12 su obavezni na času, ostali za dodatni rad.
-- Prezentacija od 30 slajdova i prečice koje prate tok časa.
-- Način za dodir, veliki odgovori, cijeli ekran i rad bez interneta.
+- Priprema za 45 minuta, 16–19 učenika i pet grupa, s nastavničkim ključem.
+- Individualni listić: cijela tabela sa str. 31, termini, polje za odgovore na kviz i kratka primjena.
+- Pet zasebnih zadataka za grupe A–E.
+- Kviz od 12 pitanja za čas i prošireni kviz od 18 pitanja za dodatno vježbanje.
+- PowerPoint od 30 slajdova i HTML prilagođen dodiru.
+- Word i PDF datoteke u mapi `materijali`; komplet u `Ogledni-cas-komplet.zip`.
 
-Word i PDF datoteke nalaze se u `materijali`. `Ogledni-cas-komplet.zip` sadrži aktuelni HTML i sve navedene materijale. Izdvojite ga i otvorite `index.html`.
+Izdvoji ZIP i otvori `index.html` za rad bez interneta. Učenici na zajedničkoj tabli prvo samostalno zapisuju odgovor; rezultat HTML pokušaja pripada zajedničkom radu. Nema naloga ni slanja odgovora na server.
 
-Izvori: dostavljena priprema i udžbenik str. 29–32. Ključ tabele je obrazložen nastavnički prijedlog. Nejasnoća o govoru i abdestu stručno je precizirana. Odgovori učenika se ne šalju na server.
+Tabela prenosi svih 14 redova i sedam kategorija sa str. 31. Nastavnički ključ navodi okolnosti važne za razvrstavanje.

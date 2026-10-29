@@ -1,19 +1,15 @@
-OGLEDNI ČAS — usklađeno 29.10.2026.
-Osnova: dostavljena radna priprema, ishod B.8.5 i tri pokazatelja.
-Trajanje 45 minuta: uvod 5, glavni dio 35, završni dio 5.
-
-ZA ŠTAMPU
-Priprema za ogledni cas.pdf: 6 stranica, uključuje tok časa i nastavničke ključeve.
-Individualni radni listic.pdf: po jedan komplet od dvije stranice za svakog učenika (do 19 kompleta). Druga stranica je vodoravna tabela; pri štampi uključiti automatsku orijentaciju.
-Grupni zadaci A-E.pdf: 5 stranica, po jedna za svaku grupu od 3–4 učenika.
-Prosireni kviz.pdf: 3 stranice. Prve dvije su 12 pitanja za čas; treća sadrži pitanja 13–18 za dodatnu vježbu. Bez projektora nastavnik može čitati prvih 12 pitanja.
-Učenici prvo upisuju svoj odgovor na listić, a tek zatim bira se zajednički odgovor na tabli.
-Tabela zadržava svih 14 postupaka. Na času su obavezni redovi 1, 4, 10, 11 i 12. Ostalo je za dodatni rad ili zadaću.
-
-ONLINE I BEZ INTERNETA
-Stranica: https://vjeronaukaskola.github.io/ogledni-cas-vrednovanje-djela/
-Pametna tabla Prestigio: https://vjeronaukaskola.github.io/ogledni-cas-vrednovanje-djela/?tabla=1
-Kviz ima 12 pitanja za čas i prošireni način s 18 pitanja. Promjena načina započinje novi pokušaj.
-Prezentacija ostaje 30 slajdova. Prečice Uvod, Pojmovi, Termini i Otvori kviz prate tok časa. Dopunski sadržaj je dostupan za samostalno čitanje.
-Izdvojite sve datoteke iz ZIP-a u istu mapu i otvorite index.html. Za lokalna preuzimanja zadržite podmapu materijali.
-HTML sadrži aktivnosti za dodir, izbor dodirom velikih polja, pet grupnih slučajeva i rezervni komplet za štampu. Odgovori se ne šalju na server.
+OGLEDNI ČAS — ažurirano 29.10.2026.
+Vrednovanje djela u Zakonu Božijem, VIII razred, 45 minuta, 16–19 učenika.
+Priprema zadržava oblik dostavljenog obrasca. Naglasak je na razumijevanju kategorija djela i primjeni na primjerima.
+TOK: 0–4 uvod; 4–14 pojmovi; 14–22 pet grupa; 22–28 individualna tabela; 28–31 termini; 31–39 kviz; 39–43 primjena; 43–45 zaključak.
+ZA ŠTAMPU:
+- Priprema za ogledni cas: 5 stranica, uključuje nastavnički ključ.
+- Listici za ucenike: individualni listić na 2 stranice. Prva je vodoravna tabela, druga uspravna stranica zadataka. Štampajte za svakog učenika, po mogućnosti jednostrano zbog različite orijentacije.
+- Zadaci za 5 grupa: 5 stranica, po jedna za svaku grupu A–E. Štampajte jedan komplet.
+- Prosireni kviz: 18 pitanja na 3 stranice; dodatno vježbanje ili zadaća. Za čas se koristi prvih 12 pitanja.
+- Tabela sa strane 31: zaseban list ako je potreban samo taj dio individualnog listića.
+Za 19 učenika: 19 primjeraka individualnog listića i jedan komplet pet grupnih zadataka. Ne treba istovremeno štampati i zasebnu tabelu.
+ONLINE: https://vjeronaukaskola.github.io/ogledni-cas-vrednovanje-djela/?tabla=1
+Na pametnoj tabli izaberite Cijeli ekran. Velike tipke omogućuju rad prstom. U kvizu izaberite 12 pitanja za čas ili 18 za vježbu. Učenici prvo samostalno pišu odgovor na listiću, a tek zatim jedan učenik bira na tabli. Rezultat na zajedničkoj tabli nije pojedinačna ocjena.
+BEZ INTERNETA: izdvojite ZIP u mapu i otvorite index.html. Sačuvajte podmapu materijali radi linkova. HTML radi bez prijave; učenički odgovori se ne šalju na server.
+BEZ EKRANA: koristite listiće, čitajte pitanja i provjerite odgovore pomoću nastavničkog ključa. Dopunske zadatke i pitanja 13–18 ostavite za vježbu ili zadaću.
